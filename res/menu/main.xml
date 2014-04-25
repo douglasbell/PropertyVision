@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/more_information"
+        android:icon="@drawable/ic_help_50"
+        android:title="@string/more_information" />
+    <item
+        android:id="@+id/save_for_later"
+        android:icon="@drawable/ic_star_50"
+        android:title="@string/save_for_later" />
+    
+
+</menu>

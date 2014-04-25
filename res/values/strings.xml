@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Property Vision</string>
+    <string name="glass_voice_trigger">property vision</string>
+    <string name="more_information">more information</string>
+    <string name="save_for_later">save to timeline</string>
+    <string name="searching">Searching&#8230;</string>
+    <string name="not_available">Not Available</string>
+    <string name="tap_for_options">tap for options</string>
+    <string name="valuation">Estimate</string>
+    <string name="high_valuation">High</string>
+    <string name="low_valuation">Low</string>
+    <string name="property_details_title">Property Facts</string>
+    <string name="property_specifics">Property Facts Unavailable</string>
+    <string name="lot_specifics">Lot Specifics Unavailable</string>
+  	<string name="unavailable">Unavailable</string>
+  	<string name="error">An error has occurred</string>
+  	<string name="blank"></string>
+</resources>
